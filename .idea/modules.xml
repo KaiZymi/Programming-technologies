@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programming-technologies-master.iml" filepath="$PROJECT_DIR$/.idea/Programming-technologies-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba_1/laba_1.iml" filepath="$PROJECT_DIR$/laba_1/laba_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba_2/laba_2.iml" filepath="$PROJECT_DIR$/laba_2/laba_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba_4/laba_4.iml" filepath="$PROJECT_DIR$/laba_4/laba_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba_5/laba_5.iml" filepath="$PROJECT_DIR$/laba_5/laba_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testAStarStudfile/testAStarStudfile.iml" filepath="$PROJECT_DIR$/testAStarStudfile/testAStarStudfile.iml" />
+    </modules>
+  </component>
+</project>
